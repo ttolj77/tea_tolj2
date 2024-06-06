@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+p { color:#0CB74A;
+    font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size:16px;
+	line-height:18px;
+	width:600px;
+	background-color:#E3DECB;
+	padding:20px;
+}
+h1, h2 {font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        color:#2C7A87;
+}
+span {color: #D70205;}
+body {background-image:url(pozadina.jpg);
+}
+a:link {color:#000000;
+   background-color:#FFFFFF;
+   padding:5px;
+   line-height:40px;
+   border:1px solid #000000
+}
+a:hover {background-color:darkgray;
+}
+img {height:200px;}
